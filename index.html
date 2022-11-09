@@ -1,7 +1,7 @@
 
-<div class="ring-container">
+<div class="ring-container"><div id="text">Live</div>
     <div class="ringring"></div>
-    <div class="circle"><div id="text">Live document</div></div>
+    <div class="circle"></div>
 </div>
 
 
@@ -10,15 +10,15 @@
     <style>
 	.ring-container {
     position: relative;
-	float:left;
+	float:right;
 }
 
  #text {
    font-family: Arial;
    font-size: small;
    white-space: nowrap;
-   padding-left: 32px;
-   top: 1px;
+   padding-right: 32px;
+   top: 12px;
    color:#62bd19;
    position:relative;
  }
@@ -29,8 +29,8 @@
     height: 15px;
     background-color: #62bd19;
     border-radius: 50%;
-    position: relative;
-    left: 8px;
+    position: absolute;
+    right: 4px;
     top: 11px;
 	
 }
@@ -41,7 +41,7 @@
     height: 25px;
     width: 25px;
     position: absolute;
-    left: 0px;
+    right: -4px;
     top: 3px;
     -webkit-animation: pulsate 1s ease-out;
     -webkit-animation-iteration-count: infinite; 
@@ -66,8 +66,8 @@
           color: #626262;
           padding-top: 8px;
           /*border: 1px solid #ececec;*/
-          text-align: right;
-		  float:right;
+          text-align: left;
+		  float:left;
           line-height: 1.5;
 		  position:relative;
       }
