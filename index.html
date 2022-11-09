@@ -3,12 +3,14 @@
     position: relative;
 }
 
- .text {
+ #text {
    font-family: Arial;
    font-size: small;
    position: relative;
    white-space: nowrap;
-   padding-left: 28px;
+   padding-left: 32px;
+   top: 1px;
+   color:#62bd19;
  }
   
   
@@ -39,11 +41,17 @@
     50% {opacity: 1.0;}
     100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
 }
+
+
+
+
+
+
 </style>
 
 <div class="ring-container">
     <div class="ringring"></div>
-    <div class="circle"><div class ="text">Live</div></div>
+    <div class="circle"><div id="text">Live document</div></div>
 </div>
 
   
@@ -51,20 +59,49 @@
     <style>
       #lbl {
           font-family: Arial;
-          font-size: x-large;
+          font-size: large;
+		  font-weight: bold;
           color: #626262;
-          padding: 10px;
-          border: 1px solid #ececec;
+          padding-top: 8px;
+          /*border: 1px solid #ececec;*/
           text-align: center;
           line-height: 1.5;
       }
       #date{
           font-size:large;
       }
+	  
+	  
+	  
+	  .animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #21130d 0%,
+    #4d423d 29%,
+    #7a716e 67%,
+    #bcb8b6 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 6s linear infinite;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
     </style>
 
 
-    <div id="lbl"></div>
+    <div id="lbl" class="animate-charcter"></div>
 
 
 <script>
@@ -82,6 +119,7 @@
     var hrs = today.getHours();
     var dayOfWeek = weekday[today.getDay()];
     var date = dayOfWeek+" " + today.getDate() + "/" +(today.getMonth()+1) +'/'+today.getFullYear()  ;
+	var date2 = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })+" "+dayOfWeek;
 
     var greet;
 
@@ -93,5 +131,5 @@
         greet = 'Good Evening  ';
 
     document.getElementById('lbl').innerHTML =
-        greet+=`<div id="date"> It's ${date}</div>`;
+        greet+=`<div id="date"> It's ${date2}</div>`;
 </script>
