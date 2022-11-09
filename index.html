@@ -1,12 +1,21 @@
-<style>
-.ring-container {
+
+<div class="ring-container">
+    <div class="ringring"></div>
+    <div class="circle"><div id="text">Live document</div></div>
+</div>
+
+
+  
+
+    <style>
+	.ring-container {
     position: relative;
+	float:left;
 }
 
  #text {
    font-family: Arial;
    font-size: small;
-   position: relative;
    white-space: nowrap;
    padding-left: 32px;
    top: 1px;
@@ -19,9 +28,10 @@
     height: 15px;
     background-color: #62bd19;
     border-radius: 50%;
-    position: absolute;
+    position: relative;
     left: 8px;
     top: 11px;
+	
 }
 
 .ringring {
@@ -47,16 +57,7 @@
 
 
 
-</style>
 
-<div class="ring-container">
-    <div class="ringring"></div>
-    <div class="circle"><div id="text">Live document</div></div>
-</div>
-
-  
-
-    <style>
       #lbl {
           font-family: Arial;
           font-size: large;
@@ -65,7 +66,9 @@
           padding-top: 8px;
           /*border: 1px solid #ececec;*/
           text-align: right;
+		  float:right;
           line-height: 1.5;
+		  position:relative;
       }
       #date{
           font-size:large;
