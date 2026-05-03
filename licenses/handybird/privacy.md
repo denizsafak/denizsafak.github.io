@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Privacy Policy - HandyBird
+brand: HandyBird
 permalink: /licenses/handybird/privacy/
 ---
 

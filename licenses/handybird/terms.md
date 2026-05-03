@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Terms of Service - HandyBird
+brand: HandyBird
 permalink: /licenses/handybird/terms/
 ---
 

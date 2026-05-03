@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Legal Documents
+layout: default
+title: Legal Documents - HandyBird
+brand: HandyBird
 permalink: /licenses/handybird/
 ---
 
