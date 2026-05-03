@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: handybird
 title: Privacy Policy - HandyBird
 permalink: /licenses/handybird/privacy/
 ---

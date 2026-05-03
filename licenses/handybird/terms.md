@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: handybird
 title: Terms of Service - HandyBird
 permalink: /licenses/handybird/terms/
 ---
