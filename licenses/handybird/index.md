@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Legal Documents - HandyBird
+title: Legal Documents
 brand: HandyBird
 permalink: /licenses/handybird/
 ---
-
-# HandyBird Legal Documentations
 
 Welcome to the official legal repository of HandyBird application.
 

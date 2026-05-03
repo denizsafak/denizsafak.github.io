@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Privacy Policy - HandyBird
+title: Privacy Policy
 brand: HandyBird
 permalink: /licenses/handybird/privacy/
 ---
-
-# Privacy Policy
 
 **Last Updated:** May 1, 2026
 

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Terms of Service - HandyBird
+title: Terms of Service
 brand: HandyBird
 permalink: /licenses/handybird/terms/
 ---
-
-# Terms of Service
 
 **Last Updated:** May 1, 2026
 
