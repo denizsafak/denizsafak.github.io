@@ -1,5 +1,5 @@
 ---
-layout: handybird
+layout: page
 title: Legal Documents
 permalink: /licenses/handybird/
 ---
