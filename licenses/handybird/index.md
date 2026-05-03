@@ -1,9 +1,12 @@
 ---
 layout: handybird
-title: HandyBird Legal
+title: Legal Documents
 permalink: /licenses/handybird/
 ---
 
-### Documentation
-*   [Privacy Policy](/licenses/handybird/privacy/)
-*   [Terms of Service](/licenses/handybird/terms/)
+# HandyBird Legal Documentations
+
+Welcome to the official legal repository of HandyBird application.
+
+*   [Privacy Policy]({{ '/licenses/handybird/privacy/' | relative_url }})
+*   [Terms of Service]({{ '/licenses/handybird/terms/' | relative_url }})

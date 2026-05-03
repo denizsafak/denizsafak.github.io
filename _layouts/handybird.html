@@ -3,28 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - HandyBird</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 2rem; }
-        header { border-bottom: 2px solid #eee; margin-bottom: 2rem; padding-bottom: 1rem; }
-        .site-title { font-size: 1.5rem; font-weight: bold; color: #000; text-decoration: none; }
-        .site-title:hover { color: #007bff; }
-        h1 { margin-top: 0; }
-        footer { margin-top: 4rem; font-size: 0.8rem; color: #777; border-top: 1px solid #eee; padding-top: 1rem; }
-        a { color: #007bff; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-    </style>
+    <title>{{ page.title }} | HandyBird</title>
+    <link rel="stylesheet" href="{{ '/assets/css/mvp.css' | relative_url }}">
 </head>
 <body>
     <header>
-        <a class="site-title" href="/licenses/handybird/">HandyBird</a>
+        <nav>
+            <!-- Only the main logo/link back to the legal home -->
+            <a href="{{ '/licenses/handybird/' | relative_url }}"><strong>HandyBird</strong></a>
+        </nav>
     </header>
     <main>
-        <h1>{{ page.title }}</h1>
-        {{ content }}
+        <article>
+            {{ content }}
+        </article>
     </main>
     <footer>
-        &copy; {{ "now" | date: "%Y" }} HandyBird - All Rights Reserved.
+        <hr>
+        <p><small>&copy; {{ "now" | date: "%Y" }} HandyBird</small></p>
     </footer>
 </body>
 </html>
