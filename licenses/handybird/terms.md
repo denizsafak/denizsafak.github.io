@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms of Service - HandyBird
-permalink: /LICENSES/converall/terms/
+permalink: /licenses/handybird/terms/
 ---
 
 # Terms of Service

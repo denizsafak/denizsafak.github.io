@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy - HandyBird
-permalink: /LICENSES/converall/privacy/
+permalink: /licenses/handybird/privacy/
 ---
 
 # Privacy Policy
