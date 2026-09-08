@@ -53,6 +53,8 @@ The App is intended for users aged **13 and older** (or the higher minimum age f
 * Children under the applicable minimum age may use the App only with a parent's or guardian's supervision and consent.
 * **Minors may not purchase subscriptions or other paid features on their own:** all purchases must be made or approved by a parent/guardian through the store's parental-control mechanisms (e.g., Apple Ask to Buy / Screen Time, Google Play parental controls and purchase authentication). We rely on the store operators' age and authorization checks at the point of purchase.
 
+* **Note on content rating:** The App's content is expected to carry an all-ages content rating (e.g., PEGI 3 / Apple 4+), reflecting the nature of its content only — as with any rating, the version shown on each store's listing page is authoritative. This content rating does not lower, waive, or otherwise affect the age-eligibility, parental-consent, or purchase-authorization requirements set out above.
+
 ## 7. Monetization: Ads and Subscriptions
 ### 7.1 Advertisements
 Once the App offers advertisements, they will be served by Google AdMob; by using a version of the App that includes ads, you agree to the display of such advertisements. Ad personalization, consent handling (including the EEA/UK consent screen), and opt-out controls are described in the [Privacy Policy](https://denizsafak.github.io/licenses/handybird/privacy/). Premium/subscription tiers, where offered, may reduce or remove ads as described on the applicable purchase screen.

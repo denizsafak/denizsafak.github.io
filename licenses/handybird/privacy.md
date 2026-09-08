@@ -111,6 +111,8 @@ HandyBird is a general-utility app whose primary audience is adults and older te
 
 Age-gating and store-level parental controls (Google Play parental controls, Apple Screen Time / Ask to Buy) remain the primary enforcement mechanisms; we encourage parents to enable them.
 
+* **Content rating (separate from age eligibility):** Based on the App's actual content, HandyBird is expected to receive an all-ages content rating (for example, PEGI 3 in Europe via Google Play's IARC questionnaire, and 4+ on the Apple App Store) — meaning the content itself contains no violence, mature language, sexual content, gambling, or similar restricted material. A content rating is generated from the questionnaire answers given at submission time and may be reviewed by the rating authorities; the rating shown on each store's listing page is authoritative. This content rating is separate from, and does not change, the account, data-collection, and purchase eligibility rules in this section and in the Terms of Service: the App's mixed-audience status described above, and the 13+ age-eligibility requirement in the Terms, remain unaffected by the content rating.
+
 ## 11. Data Retention
 * **Your files:** stored only on your device until you delete them; we hold no copies and cannot recover files lost to app deletion or device failure.
 * **Analytics/diagnostics (Google) — if and when analytics is enabled:** retained up to 14 months (Section 5), then auto-deleted by Google.
