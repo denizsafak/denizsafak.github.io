@@ -86,7 +86,8 @@ Additional network-related disclosures:
 * **Wi-Fi QR:** joining a network from a scanned QR code shares the network credentials you scanned with the OS Wi-Fi service to establish the connection.
 
 ## 9. Third-Party SDKs and Their Policies
-*Note: the AdMob, Firebase Analytics, Google Play Billing, and Apple StoreKit rows describe integrations covered for the monetized release; if your version does not include them, no corresponding collection occurs. The ML Kit, Play Services, GitHub, and OS-service rows apply as described.*
+*Note: the AdMob, Firebase Analytics, Google Play Billing, and Apple StoreKit rows describe integrations covered for the monetized release; if your version does not include them, no corresponding collection occurs. The ML Kit, Play Services, GitHub, and OS-service rows apply as described.
+
 | SDK / Service | Purpose | Data types involved | Provider documentation |
 |---|---|---|---|
 | Google AdMob | In-app advertising | Advertising ID, IP address, device info, ad interactions, coarse location from IP | [Google Privacy Policy](https://policies.google.com/privacy); [Google Ads data](https://policies.google.com/technologies/ads) |
