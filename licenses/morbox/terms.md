@@ -5,7 +5,7 @@ brand: Morbox
 permalink: /licenses/morbox/terms/
 ---
 
-**Last Updated:** October 13, 2026
+**Last Updated:** October 14, 2026
 
 These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and Deniz Şafak ("Licensor," "we," or "us") regarding your use of the Morbox mobile application ("App"). **These Terms serve a dual role: they are both the App's Terms of Service and its End User License Agreement (EULA)** — Section 2 grants your license to use the App, and the remaining sections govern acceptable use, monetization, liability, and dispute resolution.
 
@@ -81,7 +81,7 @@ The App is intended for users aged **13 and older** (or the higher minimum age f
 
 ## 7. Monetization: Ads and Subscriptions
 ### 7.1 Advertisements
-Once the App offers advertisements, they will be served by Google AdMob; by using a version of the App that includes ads, you agree to the display of such advertisements. Ad personalization, consent handling (including the EEA/UK consent screen), and opt-out controls are described in the [Privacy Policy](https://denizsafak.github.io/licenses/morbox/privacy/). Premium/subscription tiers, where offered, may reduce or remove ads as described on the applicable purchase screen.
+**Current release status:** Advertisements are **not present or active** in the current release of Morbox. If and when the App offers advertisements in a future update, they will be served by Google AdMob; by using a version of the App that includes ads, you agree to the display of such advertisements. Ad personalization, consent handling (including the EEA/UK consent screen), and opt-out controls are described in the [Privacy Policy](https://denizsafak.github.io/licenses/morbox/privacy/). Premium/subscription tiers, where offered, may reduce or remove ads as described on the applicable purchase screen.
 
 ### 7.2 Subscriptions — Plans, Pricing, and Trials
 * **Authoritative source of current terms:** The App may offer one or more auto-renewing subscription plans (e.g., premium tiers with monthly/annual durations, possibly with an introductory free trial). The **current plan names, durations, prices, and trial lengths are stated on the in-app purchase screen and the store listing**, which are the authoritative source — prices and trial offers stated anywhere else (including older versions of these Terms) do not apply if they differ. We intentionally do not hardcode prices or trial lengths here so this document cannot go stale.
