@@ -26,6 +26,8 @@ The App can send crash reports (Firebase Crashlytics) and usage statistics (Goog
 
 **Your choice.** When you first open the App, a consent screen at the end of the onboarding tour lets you allow both, choose only one, or decline both. Nothing is sent by these two features until you allow it, and the App works the same if you decline. You can change your choice at any time in Settings → Privacy & Telemetry, and the App stops sending the data you turn off. If you allow them, the data is collected automatically by the App's Firebase software.
 
+*Note on operational features versus telemetry:* Declining crash reports and usage statistics ("No thanks" / "Deny all") completely disables telemetry data collection. It does not disable non-telemetry, strictly operational services such as Firebase Remote Config (§4), which is used solely to deliver version deprecation gates and maintenance notices.
+
 **What is collected, if you allow it.**
 * Crash reports: the type of error, technical details about where it happened, and information about the app and device, such as the app version, operating system version, device model, available memory and storage, and the state of the app when it crashed.
 * Usage statistics: events such as opening the App, which tool you open, and whether a conversion started, finished, or failed (with a general duration range and an error code), together with the events Google Analytics collects automatically (such as first open, session start, and screen views), the app version, language, device model, and operating system.
@@ -54,12 +56,15 @@ The table below summarizes the third-party services used by the App. The links l
 | **Google Analytics for Firebase** | Optional usage and reliability statistics (opt-in) | [Firebase Privacy and Security](https://firebase.google.com/support/privacy) |
 | **Google ML Kit** | On-device text recognition, background removal, and document scanning | [ML Kit terms](https://developers.google.com/ml-kit/terms); [ML Kit Android data disclosure](https://developers.google.com/ml-kit/android-data-disclosure) |
 | **Google Play services** | System components and ML model downloads used by some features | [Google Privacy Policy](https://policies.google.com/privacy) |
+| **Firebase Remote Config (Google)** | Checking minimum supported app versions and service maintenance status | [Firebase Privacy and Security](https://firebase.google.com/support/privacy) |
 | **GitHub** | Hosting the Privacy Policy and Terms text shown in the App | [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) |
 | **Device OS services** | Completing QR-code actions you tap (contacts, calendar, maps, dialer, mail, Wi-Fi); these are handled by your device's operating system or another app | Governed by your operating system vendor's privacy policy |
 
 **Google Maps (GPS Field Distance & Area Measure tool).** When you open the map, Google's Maps SDK receives technical information such as your IP address, request and device information, crash and diagnostic data, and map interaction data for the area shown, as described in Google's [Maps SDK for Android data disclosure](https://developers.google.com/maps/documentation/android-sdk/play-data-disclosure). We do not receive this data. If you tap "My location" and grant the location permission, the App reads your position once to center the map (it does not track your location continuously or in the background). We do not receive it, but because the map is then centered on your position, Google can infer your location from the map data it serves. See the [Google Privacy Policy](https://policies.google.com/privacy).
 
 **Google ML Kit (text recognition, background removal, document scanning).** These features process your images and documents on your device. The ML Kit software may send limited technical and diagnostic information to Google, as described in ML Kit's data disclosures linked in the table above.
+
+**Firebase Remote Config.** After onboarding is completed, the App checks for minimum version requirements and scheduled maintenance notifications via Firebase Remote Config. To serve this configuration, Google receives standard technical connection data (including your IP address, app version, operating system, and a Firebase installation identifier). This service operates under our legitimate interest (GDPR Art. 6(1)(f) and KVKK Art. 5(2)(f)) to ensure application stability, security, and version integrity; it runs independently of optional telemetry consent and does not track your usage, build a profile, or collect user files, names, or account information.
 
 **Google Play services.** Some features use Google Play services, which operate under the [Google Privacy Policy](https://policies.google.com/privacy).
 

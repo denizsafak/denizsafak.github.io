@@ -126,6 +126,9 @@ Harita verileri doğası gereği kesin değildir: konumlar yanlış, güncel olm
 
 Google'ın harita, cihaz ve — "Konumum" özelliğini kullandığınız durumlarda — konum verilerini toplaması, [Gizlilik Politikamızın](https://denizsafak.github.io/licenses/morbox/privacy-tr/) §4 bölümünde açıklanmıştır.
 
+### 8.3 Uygulama Güncellemeleri ve Bakım
+Uygulama güvenliğini, işlevselliğini ve uyumluluğunu korumak amacıyla Morbox, desteklenen asgari bir sürüme güncellemenizi zorunlu kılabilir veya planlı bakım sırasında erişimi geçici olarak durdurabilir. Bu sürüm denetimleri ve bakım modları Google Firebase Remote Config aracılığıyla yönetilir. Uygulamanın eski, artık desteklenmeyen sürümlerine erişimi kısıtlayabileceğimizi veya engelleyebileceğimizi ve kullanımı sürdürmek için resmi uygulama mağazasından en güncel sürüme güncellemeniz gerekebileceğini kabul edersiniz.
+
 ## 9. Sorumluluğun Sınırlandırılması
 HUKUKUN İZİN VERDİĞİ AZAMİ ÖLÇÜDE DENİZ ŞAFAK; UYGULAMA'NIN KULLANIMINDAN DOĞAN VERİ KAYBI, CİHAZ HASARI VEYA GELİR KAYBI DÂHİL OLMAK ÜZERE DOLAYLI, ARIZİ, ÖZEL VEYA SONUÇSAL HİÇBİR ZARARDAN SORUMLU OLMAYACAKTIR. TOPLAM SORUMLULUĞUMUZ, TALEPTEN ÖNCEKİ ON İKİ (12) AY İÇİNDE UYGULAMA'YI KULLANMANIZ İÇİN ÖDEDİĞİNİZ TUTARI (VARSA) AŞAMAZ.
 

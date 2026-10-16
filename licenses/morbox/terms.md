@@ -126,6 +126,9 @@ Map data is inherently imprecise: positions may be wrong, outdated, incomplete, 
 
 Google's collection of map, device, and — where you have used "My location" — location data is described in our [Privacy Policy](https://denizsafak.github.io/licenses/morbox/privacy/) §4.
 
+### 8.3 App Updates and Maintenance
+To preserve application security, functionality, and compatibility, Morbox may require you to update to a minimum supported version or may temporarily pause access during scheduled maintenance. Such version checks and maintenance modes are controlled through Google Firebase Remote Config. You agree that we may restrict or block access to older, unsupported versions of the App, and that continued use may require updating to the latest release distributed through the official app store.
+
 ## 9. Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, DENIZ ŞAFAK SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF DATA, DEVICE DAMAGE, OR REVENUE LOSS ARISING FROM YOUR USE OF THE APP. OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID BY YOU (IF ANY) TO USE THE APP IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
 
