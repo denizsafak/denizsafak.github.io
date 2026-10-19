@@ -15,7 +15,7 @@ Bu Gizlilik Politikası, Morbox'ın geliştiricisi Deniz Şafak'ın ("biz", "biz
 > * Bazı özellikler Google servislerini (haritalar, metin tanıma, arka plan kaldırma ve belge tarama) kullanır; Bölüm 3 bunları listeler.
 
 ## 1. Sorumlu kim
-Veri sorumlusu, Türkiye'de yerleşik Deniz Şafak'tır. Bize **denizsafak98@gmail.com** adresinden ulaşabilirsiniz.
+Veri sorumlusu, Türkiye'de yerleşik Deniz Şafak'tır. Bize **morboxapp@gmail.com** adresinden ulaşabilirsiniz.
 
 ## 2. Cihazınızda kalan veriler
 Seçtiğiniz, dönüştürdüğünüz, taradığınız veya oluşturduğunuz dosyalar cihazınızda işlenir. Dosyalarınızı alan hiçbir sunucumuz yoktur ve Uygulama'da kullanıcı hesabı bulunmaz. Ayarlarınız, tercihleriniz, oyun puanlarınız ve harita aracındaki son harita görünümü cihazınızda saklanır. Bu yerel verileri, Uygulama'nın verilerini temizleyerek veya Uygulama'yı kaldırarak silebilirsiniz. Ayarlar'daki "Tüm ayarları sıfırla" seçeneği de bu verileri (saklanan harita görünümü dâhil) siler.
@@ -57,7 +57,7 @@ Uygulamada şu anda reklam ve ücretli abonelik bulunmamaktadır. Gelecekte ekle
 Morbox, 13 yaş veya üzerindeki ya da ülkenizdeki daha yüksek asgari yaştaki kişiler içindir. 13 yaşın altındaki çocuklara yönelik değildir ve onlardan bilerek kişisel bilgi toplamayız. Bir çocuğun Uygulama aracılığıyla bilgi verdiğine inanıyorsanız, bizimle iletişime geçin.
 
 ## 7. Haklarınız
-Yaşadığınız yere bağlı olarak (örneğin GDPR kapsamında AB ve Birleşik Krallık'ta veya KVKK kapsamında Türkiye'de), kişisel verilerinize erişme, bunları düzeltme, silme, işlemeyi kısıtlama veya işlemeye itiraz etme, rızayı geri çekme ve veri koruma otoritenize (Türkiye'de Kişisel Verileri Koruma Kurulu) şikayette bulunma hakkına sahip olabilirsiniz. KVKK'nın 11. maddesi uyarınca ayrıca verilerinizin işlenip işlenmediğini öğrenebilir, buna ilişkin bilgi talep edebilir ve hukuka aykırı işleme nedeniyle tazminat talep edebilirsiniz. Talepte bulunmak için "Gizlilik Talebi" konulu bir e-postayı **denizsafak98@gmail.com** adresine gönderin. Yasaların gerektirdiği süre içinde yanıt vereceğiz. Uygulama cihazınızda çalıştığı ve hiçbir hesaba sahip olmadığı için, genel olarak sizin hakkınızda hiçbir kişisel veri tutmayız. Harita ve diğer Google özellikleri için Google tarafından tutulan verilere ilişkin olarak yukarıda bağlantısı verilen Google gizlilik bilgilerine bakın.
+Yaşadığınız yere bağlı olarak (örneğin GDPR kapsamında AB ve Birleşik Krallık'ta veya KVKK kapsamında Türkiye'de), kişisel verilerinize erişme, bunları düzeltme, silme, işlemeyi kısıtlama veya işlemeye itiraz etme, rızayı geri çekme ve veri koruma otoritenize (Türkiye'de Kişisel Verileri Koruma Kurulu) şikayette bulunma hakkına sahip olabilirsiniz. KVKK'nın 11. maddesi uyarınca ayrıca verilerinizin işlenip işlenmediğini öğrenebilir, buna ilişkin bilgi talep edebilir ve hukuka aykırı işleme nedeniyle tazminat talep edebilirsiniz. Talepte bulunmak için "Gizlilik Talebi" konulu bir e-postayı **morboxapp@gmail.com** adresine gönderin. Yasaların gerektirdiği süre içinde yanıt vereceğiz. Uygulama cihazınızda çalıştığı ve hiçbir hesaba sahip olmadığı için, genel olarak sizin hakkınızda hiçbir kişisel veri tutmayız. Harita ve diğer Google özellikleri için Google tarafından tutulan verilere ilişkin olarak yukarıda bağlantısı verilen Google gizlilik bilgilerine bakın.
 
 ## 8. Bu politikadaki değişiklikler
 Bu politikayı güncelleyebiliriz. Yukarıdaki "Son Güncelleme" tarihi mevcut sürümü gösterir ve Uygulama her zaman en güncel metni gösterir.

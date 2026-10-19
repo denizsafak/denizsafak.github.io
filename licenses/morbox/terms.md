@@ -143,7 +143,7 @@ Nothing in these Terms excludes or limits any liability that cannot be excluded 
 You agree to indemnify and hold harmless Deniz Şafak from any claims, damages, or legal fees arising from your violation of these Terms, your unlawful content, or your infringement of any third-party rights through the use of the App.
 
 ## 11. Product Claims and IP Infringement (Store Allocation)
-Consistent with Section 3: maintenance/support obligations, product-liability and consumer claims, and IP-infringement defense for the App are the Licensor's responsibility, not the store operator's. If you believe content processed or produced with the App infringes your rights, contact denizsafak98@gmail.com with a description of the work, the allegedly infringing use, and your contact details; we will review and respond within a reasonable time.
+Consistent with Section 3: maintenance/support obligations, product-liability and consumer claims, and IP-infringement defense for the App are the Licensor's responsibility, not the store operator's. If you believe content processed or produced with the App infringes your rights, contact morboxapp@gmail.com with a description of the work, the allegedly infringing use, and your contact details; we will review and respond within a reasonable time.
 
 * **Third-party map content.** Google Maps content is supplied by Google, not by us. Claims by third parties concerning the map content itself - including claims that map imagery or data infringes their rights, and removal or restriction requests directed at Google Maps content - fall under [Google's Terms](https://cloud.google.com/maps-platform/terms) and are Google's responsibility to address; such claims should be directed to Google, and we will not adjudicate them. Where a claim concerns **the App itself** - our code, our measurement and area-computation logic, or how the App presents map content rather than the content itself - we will investigate and respond as provided above. Nothing in this Section grants you any right in Google Maps content, which is licensed subject to Google's terms (see Section 4).
 
@@ -165,4 +165,4 @@ These Terms are governed by the laws of the Republic of Türkiye. Any disputes s
 We may update these Terms (e.g., when adding monetization features or new store requirements). Material changes will be reflected in a new "Last Updated" date, and the current text will be available both here and via the in-app viewer. If you do not agree with an update, you may stop using the App (and cancel any subscription per §7.3). Your continued use of the App after changes take effect constitutes acceptance, to the extent permitted by applicable law.
 
 ## 16. Contact
-For legal notices, contact: **denizsafak98@gmail.com** (Data controller / Licensor: Deniz Şafak).
+For legal notices, contact: **morboxapp@gmail.com** (Data controller / Licensor: Deniz Şafak).

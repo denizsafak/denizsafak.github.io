@@ -15,7 +15,7 @@ This Privacy Policy explains how Deniz Şafak ("we", "us", "our"), the developer
 > * Some features use Google services (maps, text recognition, background removal, and document scanning); Section 3 lists them.
 
 ## 1. Who is responsible
-The data controller is Deniz Şafak, Türkiye. You can contact us at **denizsafak98@gmail.com**.
+The data controller is Deniz Şafak, Türkiye. You can contact us at **morboxapp@gmail.com**.
 
 ## 2. What stays on your device
 Files you select, convert, scan, or create are processed on your device. We operate no servers that receive your files, and the App has no user accounts. Your settings, preferences, game scores, and the last map view in the map tool are stored on your device. You can delete this local data by clearing the App's data or uninstalling the App. "Reset all settings" in Settings also erases it, including the stored map view.
@@ -57,7 +57,7 @@ The App has no ads and no paid subscriptions at the moment. If we add them in th
 Morbox is for people aged 13 or older, or the higher minimum age in your country. It is not directed to children under 13, and we do not knowingly collect personal information from them. If you believe a child has provided information through the App, contact us.
 
 ## 7. Your rights
-Depending on where you live (for example in the EU and UK under the GDPR, or in Türkiye under the KVKK), you may have the right to access, correct, delete, restrict, or object to the processing of your personal data, to withdraw consent, and to complain to your data protection authority (in Türkiye, the Personal Data Protection Board). Under Article 11 of the KVKK you can also learn whether your data is processed, request information about it, and claim compensation for unlawful processing. To make a request, email **denizsafak98@gmail.com** with the subject "Privacy Request". We will respond within the time required by law. Because the App works on your device and has no accounts, we generally hold no personal data about you. For data held by Google for the map and other Google features, see Google's privacy information linked above.
+Depending on where you live (for example in the EU and UK under the GDPR, or in Türkiye under the KVKK), you may have the right to access, correct, delete, restrict, or object to the processing of your personal data, to withdraw consent, and to complain to your data protection authority (in Türkiye, the Personal Data Protection Board). Under Article 11 of the KVKK you can also learn whether your data is processed, request information about it, and claim compensation for unlawful processing. To make a request, email **morboxapp@gmail.com** with the subject "Privacy Request". We will respond within the time required by law. Because the App works on your device and has no accounts, we generally hold no personal data about you. For data held by Google for the map and other Google features, see Google's privacy information linked above.
 
 ## 8. Changes to this policy
 We may update this policy. The "Last Updated" date above shows the current version, and the App always shows the latest text.
